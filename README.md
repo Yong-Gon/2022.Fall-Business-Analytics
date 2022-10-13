@@ -11,6 +11,8 @@ E-mail: yg4458@korea.ac.kr
 ## 1. Dimensionality Reduction
 
 1. **Genetic Algorithm** [[Jupyter Notebook Tutorial]('links')]
+2. **Principal Component Analysis** [[Jupyter Notebook Tutorial]('links')]
+
 --------------------------
 
 ## 2. Kernel-based Learning
