@@ -10,8 +10,7 @@ E-mail: yg4458@korea.ac.kr
 
 ## 1. Dimensionality Reduction
 
-1. **Genetic Algorithm** [[Jupyter Notebook Tutorial]('links')]
-2. **Principal Component Analysis** [[Jupyter Notebook Tutorial]('links')]
+1. **Genetic Algorithm** [[Genetic Algorithm Tutorial]('https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/1_dimensionality_reduction/1.%20Genetic%20Algorithm/Genetic_Algorithm_tutorial.ipynb')]
 
 --------------------------
 
