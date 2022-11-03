@@ -16,7 +16,7 @@ E-mail: yg4458@korea.ac.kr
 
 ## 2. Kernel-based Learning
 
-1. **Support Vector Machine & Regression**
+1. **Support Vector Machine & Regression** [[Support Vector Regression Tutorial]()]
 
 --------------------------
 
