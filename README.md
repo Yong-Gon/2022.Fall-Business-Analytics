@@ -22,6 +22,8 @@ E-mail: yg4458@korea.ac.kr
 
 ## 3. Anomaly Detection
 
+1. **Isolation Forest** [[Isolation Forest Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/3_Anomaly_Detection/1_Isolation_Forest/Isolation%20Forest.ipynb)]
+
 --------------------------
 
 ## 4. Ensemble Learning
