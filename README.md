@@ -28,6 +28,8 @@ E-mail: yg4458@korea.ac.kr
 
 ## 4. Ensemble Learning
 
+1. **CatBoost** [[CatBoost Tutorial]()]
+
 --------------------------
 
 ## 5. Semi-supervised Learning
