@@ -28,7 +28,9 @@ E-mail: yg4458@korea.ac.kr
 
 ## 4. Ensemble Learning
 
-1. **CatBoost** [[CatBoost Tutorial]()]
+1. **CatBoost-1** [[CatBoost Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/4_Ensemble_learning/2_Boosting-based_Ensemble/5_CatBoost/CatBoost-1.ipynb)]
+1.1. **CatBoost-gridsearch** [[CatBoost Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/4_Ensemble_learning/2_Boosting-based_Ensemble/5_CatBoost/CatBoost-1(GS).ipynb)]
+2. **CatBoost-2** [[CatBoost Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/4_Ensemble_learning/2_Boosting-based_Ensemble/5_CatBoost/CatBoost-2.ipynb)]
 
 --------------------------
 
