@@ -42,7 +42,7 @@ E-mail: yg4458@korea.ac.kr
 
 1. **Hybrid/Holistic Methods - MixMatch** [[MixMatch Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/5_Semi_Supervised_Learning/4_Hybrid%5CHolstic_Method/1_MixMatch/MixMatch.ipynb)]
 2. **Hybrid/Holistic Methods - FixMatch** [[FixMatch Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/5_Semi_Supervised_Learning/4_Hybrid%5CHolstic_Method/2_FixMatch/FixMatch.ipynb)]
-3. **Hybrid/Holistic Methods - FlexMatch** [[FlexMatch Tutorial](https://)]
+3. **Hybrid/Holistic Methods - FlexMatch** [[FlexMatch Tutorial](https://github.com/Yong-Gon/2022.Fall-Business-Analytics/blob/main/5_Semi_Supervised_Learning/4_Hybrid%5CHolstic_Method/3_FlexMatch/FlexMatch.ipynb)]
 
 ==========================================================================
 ## Reference
