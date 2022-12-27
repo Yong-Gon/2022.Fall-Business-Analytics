@@ -40,6 +40,7 @@ E-mail: yg4458@korea.ac.kr
 
 --------------------------
 
+1. **Hybrid/Holistic Methods** [[Hybrid/Holistic Methods Tutorial](https://)]
 
 ==========================================================================
 ## Reference
